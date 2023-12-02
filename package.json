@@ -8,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"keywords": [ "descriptive", "related", "words",  "freecodecamp"],
+	"license": "MIT",
 	"description": "A project that does something awesome",
 	"author": "Maximiliano Cerra",
 	"repository": {
